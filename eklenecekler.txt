@@ -1,0 +1,6 @@
+öğrencinin kaydı silindiği zaman sayfa yenilenecek. silinen belli olsun diye ++
+görevliye kitap ekleme sayfası tasarlanacak.++
+
+++görevli1 ekranına öğrenci listesi butonu koy
+
+öğrenci isim soyisim bölüm ve kaydı sil butonu olacak
